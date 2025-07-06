@@ -194,7 +194,7 @@ export default function TransactionForm({
       )}
 
       <div className="mt-4 p-4 bg-purple-50 border-l-4 border-purple-400 rounded shadow text-sm text-gray-800 italic">
-        💡 "A budget is telling your money where to go instead of wondering where it went."
+        💡 {"A budget is telling your money where to go instead of wondering where it went."}
       </div>
     </div>
   );
